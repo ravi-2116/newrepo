@@ -10,5 +10,7 @@ public void abc()
 public void cv()
 {
 	System.out.println("dog is barking");
+	int i;
+	int j;
 }
 }
